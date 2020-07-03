@@ -1,1 +1,1 @@
-# face_recognition-using-PCA
+Here, I formulate face recognition as a classification task and i use a popular technique for face recognition called eigenfaces. And at the heart of eigenfaces is an unsupervised dimensionality reduction technique called principal component analysis (PCA),
